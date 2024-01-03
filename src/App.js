@@ -10,7 +10,7 @@ import LoginPage from "./pages/LoginPage";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/sonalika-grocery-app'>
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/products/:catId" element={<ProductPage />} />
