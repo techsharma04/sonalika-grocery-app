@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sonalika-grocery-app/static/css/main.65db7723.css",
+    "main.js": "/sonalika-grocery-app/static/js/main.6efd929d.js",
+    "index.html": "/sonalika-grocery-app/index.html",
+    "main.65db7723.css.map": "/sonalika-grocery-app/static/css/main.65db7723.css.map",
+    "main.6efd929d.js.map": "/sonalika-grocery-app/static/js/main.6efd929d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65db7723.css",
+    "static/js/main.6efd929d.js"
+  ]
+}
